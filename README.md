@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Gonzalez</h1>
 <h3 align="center">A passionate data analyst with a lot of curiosity</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_still/090082136096999.61f30d05ec1bc.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/090082136096999.61f30d05ec1bc.gif">
 
 - 🔭 I’m currently working on [Spotify music analysis](https://app.datacamp.com/workspace/w/57cedfd3-ffee-4cac-8ebf-97844eb7770a/edit)
 - 🌱 I’m currently learning **Power Bi and Tensorflow**
