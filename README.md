@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Power Bi and Tensorflow**
 - 👯 I’m looking to collaborate on **any project that improve my data-knowledge**
 - 📫 How to reach me **diefgonzalezpac@unal.edu.co**
-- 📄 Know about my experiences [https://drive.google.com/file/d/146ykMXlOM3mCYhiECZOWj35hgPGFM8Kc/view?usp=sharing](https://drive.google.com/file/d/146ykMXlOM3mCYhiECZOWj35hgPGFM8Kc/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/146ykMXlOM3mCYhiECZOWj35hgPGFM8Kc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
