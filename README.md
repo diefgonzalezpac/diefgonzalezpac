@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego Gonzalez</h1>
 <h3 align="center">A passionate data analyst with a lot of curiosity</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/136096999/Jpeg-Hunting/modules/769956589")
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/136096999/Jpeg-Hunting/modules/769956589">
 
 - 🔭 I’m currently working on [Spotify music analysis](https://app.datacamp.com/workspace/w/57cedfd3-ffee-4cac-8ebf-97844eb7770a/edit)
-
 - 🌱 I’m currently learning **Power Bi and Tensorflow**
-
 - 👯 I’m looking to collaborate on **any project that improve my data-knowledge**
-
 - 📫 How to reach me **diefgonzalezpac@unal.edu.co**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/146ykMXlOM3mCYhiECZOWj35hgPGFM8Kc/view?usp=sharing](https://drive.google.com/file/d/146ykMXlOM3mCYhiECZOWj35hgPGFM8Kc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
